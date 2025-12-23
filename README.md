@@ -1,2 +1,2 @@
-# Pinguimmar.github.io
+# pinguimmar.github.io
 Curriculum Vitae
